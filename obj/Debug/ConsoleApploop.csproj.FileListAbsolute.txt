@@ -1,0 +1,8 @@
+F:\Day - 2\ConsoleApploop\ConsoleApploop\obj\Debug\ConsoleApploop.csproj.AssemblyReference.cache
+F:\Day - 2\ConsoleApploop\ConsoleApploop\obj\Debug\ConsoleApploop.csproj.SuggestedBindingRedirects.cache
+F:\Day - 2\ConsoleApploop\ConsoleApploop\obj\Debug\ConsoleApploop.csproj.CoreCompileInputs.cache
+F:\Day - 2\ConsoleApploop\ConsoleApploop\bin\Debug\ConsoleApploop.exe.config
+F:\Day - 2\ConsoleApploop\ConsoleApploop\bin\Debug\ConsoleApploop.exe
+F:\Day - 2\ConsoleApploop\ConsoleApploop\bin\Debug\ConsoleApploop.pdb
+F:\Day - 2\ConsoleApploop\ConsoleApploop\obj\Debug\ConsoleApploop.exe
+F:\Day - 2\ConsoleApploop\ConsoleApploop\obj\Debug\ConsoleApploop.pdb
